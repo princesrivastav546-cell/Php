@@ -1,7 +1,7 @@
 <?php
 // ==================== CONFIGURATION ====================
-define('API_BASE', 'https://anishexploits.site/api/api.php?key=exploits&num=');
-define('BOT_TOKEN', '8372266918:AAGMkYzH0QvmxGJVrrTXvF8nzT7KXjj1O40');
+define('API_BASE', 'ANISH_EXPLOITE_API');
+define('BOT_TOKEN', 'TELEGRAM_BOT_TOKEN');
 
 $HEADERS = [
     "User-Agent: Mozilla/5.0 (Linux; Android 13; Termux) Gecko/117.0 Firefox/117.0",
